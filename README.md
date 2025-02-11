@@ -1,6 +1,6 @@
 # Lab_Assignment_01_id40
 
-Name: Maharaj Hossain Tanim
+Name: Maharaj Hossain Tanim \n
 ID: 2215151040
 Uni: UITS
 Course: Simulation and Modeling Lab
