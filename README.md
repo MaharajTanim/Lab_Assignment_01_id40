@@ -1,11 +1,17 @@
 # Lab_Assignment_01_id40
 
-Name: Maharaj Hossain Tanim \n
+Name: Maharaj Hossain Tanim
+
 ID: 2215151040
+
 Uni: UITS
+
 Course: Simulation and Modeling Lab
+
 Course Code: CSE 413
+
 Concept Covered: Matrix Functions, Matrix Operations, Line Graph, Bar plot, Scatter Plot, Heatmap, Matrix Element Barplot, Uniform Distribution with Random Numbers
+
 Lab Day: 02
 
 Assignment:
